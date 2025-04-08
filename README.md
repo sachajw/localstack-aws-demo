@@ -1,1 +1,1 @@
-# PyCon Africa '24 Code & Materials
+# AWS Localstack demo environment
